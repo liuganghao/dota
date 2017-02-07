@@ -1,0 +1,9 @@
+{
+    "files": [
+        "src/core.adf.md/*"
+    ],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "es6"
+    }
+}
